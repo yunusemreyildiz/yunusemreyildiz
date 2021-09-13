@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yunusemreyildiz
-- 👀 I’m interested in mobile development, AI and software development
+- 👀 I’m interested in software development and testing
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me -> yunusemreyildiz@mail.ru
 
