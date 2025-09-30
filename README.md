@@ -62,20 +62,6 @@ current_role: Senior QA Engineer @ PttAVM
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusemreyildiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreyildiz&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunusemreyildiz&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ## 🏆 Key Achievements
 
 <table>
@@ -180,16 +166,6 @@ graph TD
 🌱 Agricultural management system
 📡 IoT sensor integration for real-time crop monitoring
 ```
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yunusemreyildiz&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph)
-  
-</div>
 
 ---
 
