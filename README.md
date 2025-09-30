@@ -124,18 +124,19 @@ graph TD
 ### 🎯 **Senior QA Engineer** @ **PttAVM** *(July 2025 - Present)*
 - 🏗️ Architected end-to-end test automation framework from scratch
 - 🤖 Developed AI-powered testing tools improving coverage by **40%**
-- 👥 Mentored team of **5 junior QA engineers**
 - 📈 Serving platform with **1M+ daily users**
 
 ### ✈️ **Senior QA Engineer** @ **Enuygun** *(May 2024 - July 2025)*
 - 📱 Designed mobile test automation suite achieving **85%** coverage
 - ⚡ Reduced release cycle from **5 days to 2 days**
 - 🔍 Identified **30+ critical production issues**
+- - 👥 Mentored team of **2 junior QA engineers**
 
 ### 🛍️ **Senior Test Automation Engineer** @ **DeFacto Technology** *(June 2022 - May 2024)*
 - 🏪 Led automation for Turkey's leading retail company (**500+ stores**)
 - 🔄 Developed hybrid framework reducing regression time by **65%**
 - 🛠️ Built custom testing tools saving **20+ hours weekly**
+- - 👥 Mentored team of **5 junior QA engineers**
 
 ---
 
